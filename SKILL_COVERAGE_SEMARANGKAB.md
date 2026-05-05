@@ -11,512 +11,611 @@
 ---
 
 
-### `401-403-bypass-techniques`  
+
+### `401-403-bypass-techniques`
+
 
 401/403 bypass playbook. Use when encountering access-denied responses on admin panels, API endpoints, or restricted paths. Covers path manipulation, HTTP method tampering, header injection, protocol downgrade, and automated bypass tools
 
 
-### `active-directory-acl-abuse`  
 
->-
 
+### `active-directory-acl-abuse`
 
-### `active-directory-certificate-services`  
 
->-
+> - 
 
 
-### `active-directory-kerberos-attacks`  
 
->-
 
+### `active-directory-certificate-services`
 
-### `ai-ml-security`  
 
->-
+> - 
 
 
-### `android-pentesting-tricks`  
 
->-
 
+### `active-directory-kerberos-attacks`
 
-### `anti-debugging-techniques`  
 
->-
+> - 
 
 
-### `api-auth-and-jwt-abuse`  
 
->-
 
+### `ai-ml-security`
 
-### `api-authorization-and-bola`  
 
->-
+> - 
 
 
-### `api-recon-and-docs`  
 
->-
 
+### `android-pentesting-tricks`
 
-### `api-sec`  
 
->-
+> - 
 
 
-### `arbitrary-write-to-rce`  
 
->-
 
+### `anti-debugging-techniques`
 
-### `auth-sec`  
 
->-
+> - 
 
 
-### `authbypass-authentication-flaws`  
 
->-
 
+### `api-auth-and-jwt-abuse`
 
-### `binary-protection-bypass`  
 
->-
+> - 
 
 
-### `browser-exploitation-v8`  
 
->-
 
+### `api-authorization-and-bola`
 
-### `business-logic-vuln`  
 
->-
+> - 
 
 
-### `business-logic-vulnerabilities`  
 
->-
 
+### `api-recon-and-docs`
 
-### `classical-cipher-analysis`  
 
->-
+> - 
 
 
-### `clickjacking`  
 
->-
 
+### `api-sec`
 
-### `cmdi-command-injection`  
 
->-
+> - 
 
 
-### `code-obfuscation-deobfuscation`  
 
->-
 
+### `arbitrary-write-to-rce`
 
-### `container-escape-techniques`  
 
->-
+> - 
 
 
-### `cors-cross-origin-misconfiguration`  
 
->-
 
+### `auth-sec`
 
-### `crlf-injection`  
 
->-
+> - 
 
 
-### `csp-bypass-advanced`  
+### `authbypass-authentication-flaws`
 
->-
 
+> - 
 
-### `csrf-cross-site-request-forgery`  
 
->-
 
 
-### `csv-formula-injection`  
+### `binary-protection-bypass`
 
->-
 
+> - 
 
-### `dangling-markup-injection`  
 
->-
 
 
-### `defi-attack-patterns`  
+### `browser-exploitation-v8`
 
->-
 
+> - 
 
-### `dependency-confusion`  
 
->-
 
 
-### `deserialization-insecure`  
+### `business-logic-vuln`
 
->-
 
+> - 
 
-### `dns-rebinding-attacks`  
 
->-
 
 
-### `email-header-injection`  
+### `business-logic-vulnerabilities`
 
->-
 
+> - 
 
-### `expression-language-injection`  
 
->-
 
 
-### `file-access-vuln`  
+### `classical-cipher-analysis`
 
->-
 
+> - 
 
-### `format-string-exploitation`  
 
->-
 
 
-### `ghost-bits-cast-attack`  
+### `clickjacking`
 
->-
 
+> - 
 
-### `graphql-and-hidden-parameters`  
 
->-
 
 
-### `hack`  
+### `cmdi-command-injection`
+
+
+> - 
+
+
+
+
+### `code-obfuscation-deobfuscation`
+
+
+> - 
+
+
+
+
+### `container-escape-techniques`
+
+
+> - 
+
+
+
+
+### `cors-cross-origin-misconfiguration`
+
+
+> - 
+
+
+
+
+### `crlf-injection`
+
+
+> - 
+
+
+
+
+### `csp-bypass-advanced`
+
+
+> - 
+
+
+
+
+### `csrf-cross-site-request-forgery`
+
+
+> - 
+
+
+
+
+### `csv-formula-injection`
+
+
+> - 
+
+
+
+
+### `dangling-markup-injection`
+
+
+> - 
+
+
+
+
+### `defi-attack-patterns`
+
+
+> - 
+
+
+
+
+### `dependency-confusion`
+
+
+> - 
+
+
+
+
+### `deserialization-insecure`
+
+
+> - 
+
+
+
+
+### `dns-rebinding-attacks`
+
+
+> - 
+
+
+
+
+### `email-header-injection`
+
+
+> - 
+
+
+
+### `expression-language-injection`
+
+> - 
+
+
+### `file-access-vuln`
+
+> - 
+
+
+### `format-string-exploitation`
+
+> - 
+
+
+### `ghost-bits-cast-attack`
+
+> - 
+
+
+### `graphql-and-hidden-parameters`
+
+> - 
+
+
+### `hack`
 
 Entry P0 primary router for HackSkills. Use when the task involves web application testing, API security assessment, recon, vulnerability triage, exploit path planning, or choosing the right next category skill before any deep topic skill
 
 
-### `hash-attack-techniques`  
+### `hash-attack-techniques`
 
->-
+> - 
 
 
-### `heap-exploitation`  
+### `heap-exploitation`
 
->-
+> - 
 
 
-### `http-host-header-attacks`  
+### `http-host-header-attacks`
 
->-
+> - 
 
 
-### `http-parameter-pollution`  
+### `http-parameter-pollution`
 
->-
+> - 
 
 
-### `http2-specific-attacks`  
+### `http2-specific-attacks`
 
->-
+> - 
 
 
-### `idor-broken-object-authorization`  
+### `idor-broken-object-authorization`
 
->-
+> - 
 
 
-### `injection-checking`  
+### `injection-checking`
 
->-
+> - 
 
 
-### `insecure-source-code-management`  
+### `insecure-source-code-management`
 
->-
+> - 
 
 
-### `ios-pentesting-tricks`  
+### `ios-pentesting-tricks`
 
->-
+> - 
 
 
-### `jndi-injection`  
+### `jndi-injection`
 
->-
+> - 
 
 
-### `jwt-oauth-token-attacks`  
+### `jwt-oauth-token-attacks`
 
->-
+> - 
 
 
-### `kernel-exploitation`  
+### `kernel-exploitation`
 
->-
+> - 
 
 
-### `kubernetes-pentesting`  
+### `kubernetes-pentesting`
 
->-
+> - 
 
 
-### `lattice-crypto-attacks`  
+### `lattice-crypto-attacks`
 
->-
+> - 
 
 
-### `linux-lateral-movement`  
+### `linux-lateral-movement`
 
->-
+> - 
 
 
-### `linux-privilege-escalation`  
+### `linux-privilege-escalation`
 
->-
+> - 
 
 
-### `linux-security-bypass`  
+### `linux-security-bypass`
 
->-
+> - 
 
 
-### `llm-prompt-injection`  
+### `llm-prompt-injection`
 
->-
+> - 
 
 
-### `macos-process-injection`  
+### `macos-process-injection`
 
->-
+> - 
 
 
-### `macos-security-bypass`  
+### `macos-security-bypass`
 
->-
+> - 
 
 
-### `memory-forensics-volatility`  
+### `memory-forensics-volatility`
 
->-
+> - 
 
 
-### `mobile-ssl-pinning-bypass`  
+### `mobile-ssl-pinning-bypass`
 
->-
+> - 
 
 
-### `network-protocol-attacks`  
+### `network-protocol-attacks`
 
->-
+> - 
 
 
-### `nosql-injection`  
+### `nosql-injection`
 
->-
+> - 
 
 
-### `ntlm-relay-coercion`  
+### `ntlm-relay-coercion`
 
->-
+> - 
 
 
-### `oauth-oidc-misconfiguration`  
+### `oauth-oidc-misconfiguration`
 
->-
+> - 
 
 
-### `open-redirect`  
+### `open-redirect`
 
->-
+> - 
 
 
-### `path-traversal-lfi`  
+### `path-traversal-lfi`
 
->-
+> - 
 
 
-### `prototype-pollution`  
+### `prototype-pollution`
 
->-
+> - 
 
 
-### `prototype-pollution-advanced`  
+### `prototype-pollution-advanced`
 
->-
+> - 
 
 
-### `race-condition`  
+### `race-condition`
 
->-
+> - 
 
 
-### `recon-and-methodology`  
+### `recon-and-methodology`
 
->-
+> - 
 
 
-### `recon-for-sec`  
+### `recon-for-sec`
 
->-
+> - 
 
 
-### `request-smuggling`  
+### `request-smuggling`
 
->-
+> - 
 
 
-### `reverse-shell-techniques`  
+### `reverse-shell-techniques`
 
->-
+> - 
 
 
-### `rsa-attack-techniques`  
+### `rsa-attack-techniques`
 
->-
+> - 
 
 
-### `saml-sso-assertion-attacks`  
+### `saml-sso-assertion-attacks`
 
->-
+> - 
 
 
-### `sandbox-escape-techniques`  
+### `sandbox-escape-techniques`
 
->-
+> - 
 
 
-### `smart-contract-vulnerabilities`  
+### `smart-contract-vulnerabilities`
 
->-
+> - 
 
 
-### `sqli-sql-injection`  
+### `sqli-sql-injection`
 
->-
+> - 
 
 
-### `ssrf-server-side-request-forgery`  
+### `ssrf-server-side-request-forgery`
 
->-
+> - 
 
 
-### `ssti-server-side-template-injection`  
+### `ssti-server-side-template-injection`
 
->-
+> - 
 
 
-### `stack-overflow-and-rop`  
+### `stack-overflow-and-rop`
 
->-
+> - 
 
 
-### `steganography-techniques`  
+### `steganography-techniques`
 
->-
+> - 
 
 
-### `subdomain-takeover`  
+### `subdomain-takeover`
 
->-
+> - 
 
 
-### `symbolic-execution-tools`  
+### `symbolic-execution-tools`
 
->-
+> - 
 
 
-### `symmetric-cipher-attacks`  
+### `symmetric-cipher-attacks`
 
->-
+> - 
 
 
-### `traffic-analysis-pcap`  
+### `traffic-analysis-pcap`
 
->-
+> - 
 
 
-### `tunneling-and-pivoting`  
+### `tunneling-and-pivoting`
 
->-
+> - 
 
 
-### `type-juggling`  
+### `type-juggling`
 
->-
+> - 
 
 
-### `unauthorized-access-common-services`  
+### `unauthorized-access-common-services`
 
->-
+> - 
 
 
-### `upload-insecure-files`  
+### `upload-insecure-files`
 
->-
+> - 
 
 
-### `vm-and-bytecode-reverse`  
+### `vm-and-bytecode-reverse`
 
->-
+> - 
 
 
-### `waf-bypass-techniques`  
+### `waf-bypass-techniques`
 
->-
+> - 
 
 
-### `web-cache-deception`  
+### `web-cache-deception`
 
->-
+> - 
 
 
-### `websocket-security`  
+### `websocket-security`
 
->-
+> - 
 
 
-### `windows-av-evasion`  
+### `windows-av-evasion`
 
->-
+> - 
 
 
-### `windows-lateral-movement`  
+### `windows-lateral-movement`
 
->-
+> - 
 
 
-### `windows-privilege-escalation`  
+### `windows-privilege-escalation`
 
->-
+> - 
 
 
-### `xslt-injection`  
+### `xslt-injection`
 
->-
+> - 
 
 
-### `xss-cross-site-scripting`  
+### `xss-cross-site-scripting`
 
->-
+> - 
 
 
-### `xxe-xml-external-entity`  
+### `xxe-xml-external-entity`
 
->-
-
+> - 
