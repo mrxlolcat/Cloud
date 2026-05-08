@@ -1,11 +1,7 @@
 ---
 name: api-sec
-description: >-
-  Entry P1 category router for API security. Use when choosing between API
-  recon, authorization, token abuse, and hidden-parameter workflows before any
-  deeper API topic skill.
+description: Entry P1 category router for API security. Use when choosing between API recon, authorization, token abuse, and hidden-parameter workflows before any deeper API topic skill.
 ---
-
 # API Security Router
 
 This is the routing entry point for API security testing.
@@ -28,7 +24,7 @@ Use this skill first to decide whether the API issue is mostly recon/docs, objec
 ## Quick Triage
 
 | Observation | Route |
-|---|---|
+| --- | --- |
 | Swagger or OpenAPI is present | [api-recon-and-docs](../api-recon-and-docs/SKILL.md) |
 | IDs appear in URL, JSON, headers, or GraphQL args | [api-authorization-and-bola](../api-authorization-and-bola/SKILL.md) |
 | JWT token visible in traffic | [api-auth-and-jwt-abuse](../api-auth-and-jwt-abuse/SKILL.md) |

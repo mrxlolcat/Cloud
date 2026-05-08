@@ -12,47 +12,40 @@
   "session_totals": {
     "processed_items": 4,
     "submitted_items": 0,
-    "failed_items": 17
+    "failed_items": 27
   },
   "last_summary": {
-    "iteration": 2,
+    "iteration": 5,
     "heartbeat_sent": true,
     "unified_heartbeat_sent": true,
     "claimed_items": 0,
-    "discovery_items": 3,
+    "discovery_items": 0,
     "resumed_items": 0,
     "processed_items": 0,
     "submitted_items": 0,
     "discovered_followups": 0,
     "skipped_items": 0,
-    "retry_pending": 3,
+    "retry_pending": 0,
     "auth_pending": [],
-    "messages": [],
+    "messages": [
+      "no task available"
+    ],
     "errors": [
-      "join miner ready pool failed: The read operation timed out",
-      "discovery:ds_basic_amazon_products_active:https://amazon.com/gp/bestsellers/toys-games: [Errno 2] No such file or directory: '/home/workspace/Cloud/Skills/mine/.venv/bin/python'",
-      "discovery:ds_basic_amazon_products_active:https://amazon.co.uk/gp/bestsellers/sports-outdoors: [Errno 2] No such file or directory: '/home/workspace/Cloud/Skills/mine/.venv/bin/python'",
-      "discovery:ds_basic_amazon_products_active:https://amazon.de/gp/bestsellers/office-products: [Errno 2] No such file or directory: '/home/workspace/Cloud/Skills/mine/.venv/bin/python'"
+      "claim source failed: repeat_crawl claim request failed: The read operation timed out"
     ],
     "current_batch": {
-      "state": "settled",
-      "iteration": 2,
-      "size": 3,
-      "item_ids": [
-        "discovery:ds_basic_amazon_products_active:https://amazon.com/gp/bestsellers/toys-games",
-        "discovery:ds_basic_amazon_products_active:https://amazon.co.uk/gp/bestsellers/sports-outdoors",
-        "discovery:ds_basic_amazon_products_active:https://amazon.de/gp/bestsellers/office-products"
-      ],
-      "dataset_ids": [
-        "ds_basic_amazon_products_active"
-      ],
+      "state": "idle",
+      "iteration": 5,
+      "size": 0,
+      "item_ids": [],
+      "dataset_ids": [],
       "processed_items": 0,
       "submitted_items": 0,
-      "error_count": 4,
-      "message_count": 0
+      "error_count": 1,
+      "message_count": 1
     }
   },
-  "last_heartbeat_at": 1778057543,
+  "last_heartbeat_at": 1778057811,
   "credit_score": 40,
   "credit_tier": "normal",
   "epoch_id": null,
@@ -62,28 +55,22 @@
   "token_expires_at": 1778141515,
   "last_control_action": "start-working",
   "last_state_change_at": 1778055151,
-  "last_activity_at": 1778057472,
-  "last_iteration": 2,
-  "last_wait_seconds": 60,
+  "last_activity_at": 1778057844,
+  "last_iteration": 5,
+  "last_wait_seconds": 120,
   "wallet_session_token": "wlt_09c0bf6328633070531a304883db8a97",
   "miner_id": "0xe00078174972c9b95d9404e67c004c0bf00f8d1c",
   "pow_probability": 0.5,
   "run_started_at": 1778055151,
   "current_batch": {
-    "state": "settled",
-    "iteration": 2,
-    "size": 3,
-    "item_ids": [
-      "discovery:ds_basic_amazon_products_active:https://amazon.com/gp/bestsellers/toys-games",
-      "discovery:ds_basic_amazon_products_active:https://amazon.co.uk/gp/bestsellers/sports-outdoors",
-      "discovery:ds_basic_amazon_products_active:https://amazon.de/gp/bestsellers/office-products"
-    ],
-    "dataset_ids": [
-      "ds_basic_amazon_products_active"
-    ],
+    "state": "idle",
+    "iteration": 5,
+    "size": 0,
+    "item_ids": [],
+    "dataset_ids": [],
     "processed_items": 0,
     "submitted_items": 0,
-    "error_count": 4,
-    "message_count": 0
+    "error_count": 1,
+    "message_count": 1
   }
 }
